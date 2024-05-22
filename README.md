@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ej-elkerton
+- 👋 Hi, I’m Elijah Elkerton
 - 👀 I’m interested in ... Sports and Data
-- 🌱 I’m currently learning ... SQL and refreshing on SAS
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... Python and MI/AI concepts
 
 <!---
 ej-elkerton/ej-elkerton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
